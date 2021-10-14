@@ -1,2 +1,2 @@
 # cuestionario
-Santiago Rodriguez Hays
+Santiago Rodriguez Hays,Marcelo Sanches
